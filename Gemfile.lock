@@ -1,9 +1,9 @@
 GIT
   remote: git://github.com/opscode/omnibus-ruby.git
-  revision: d7b6292193487a5b3b40fe045480e65e12863962
+  revision: a53c58315c241f08e0716b65b2eeb8f640f3bd2d
   branch: master
   specs:
-    omnibus (3.1.0)
+    omnibus (3.1.1)
       chef-sugar (~> 1.2)
       fpm (~> 1.0.0)
       mixlib-config (~> 2.1)
@@ -14,11 +14,10 @@ GIT
 
 GIT
   remote: git://github.com/opscode/omnibus-software.git
-  revision: c8eb9bd65e9ab9fd7672be4d2700c49014710312
+  revision: d6c00788669413023729223e638e8ac9856224a7
   branch: lcg/ffi-yajl-gem
   specs:
     omnibus-software (0.0.1)
-
 
 GEM
   remote: https://rubygems.org/
